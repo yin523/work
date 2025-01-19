@@ -1,4 +1,4 @@
-ntroduction
+Ntroduction
 
 This project provides a simple and practical way to control an Android device using Python and ADB. The main features include opening the camera, collecting system logs, recording the screen, and taking pictures. This tool is especially useful for developers and testers who need to automate Android device interactions or debug issues quickly.
 Features
